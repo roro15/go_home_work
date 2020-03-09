@@ -1,4 +1,4 @@
-module github.com/roro15/hw01_hello_now
+module github.com/roro15/go_home_work/hw01_hello_now
 
 go 1.14
 
